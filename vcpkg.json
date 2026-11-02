@@ -9,6 +9,8 @@
       "lapack",
       "opengl",
       "glfw3",
-      "gl3w"
+      "gl3w",
+      "sdl2",
+      "freeglut"
     ]
 }
