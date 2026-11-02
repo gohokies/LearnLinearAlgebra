@@ -8,6 +8,7 @@
       "openblas",
       "lapack",
       "opengl",
-      "glfw3"
+      "glfw3",
+      "gl3w"
     ]
 }
